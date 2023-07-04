@@ -2,8 +2,6 @@
 const nextConfig = {
   images: {
     domains: ["cdn.imagin.studio"],
-    loader: "imgix",
-    path: ""
   },
   output: 'export'
 };
