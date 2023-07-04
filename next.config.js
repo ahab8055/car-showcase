@@ -4,7 +4,7 @@ const nextConfig = {
     domains: ["cdn.imagin.studio"]
   },
   output: 'export',
-  basePath: '/car-showcase'
+  assetPrefix: "/car-showcase/",
 };
 
 module.exports = nextConfig;
